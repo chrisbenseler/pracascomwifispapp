@@ -1,8 +1,8 @@
 import { Component } from '@angular/core';
 import { IonicPage, NavController, NavParams } from 'ionic-angular';
 import { ModalController } from 'ionic-angular';
-import { AngularFireDatabase, FirebaseListObservable } from 'angularfire2/database';
 
+import { PlazasProvider } from '../../providers/plazas/plazas';
 import { PlazaPage } from '../plaza/plaza';
 
 @Component({
@@ -23,13 +23,13 @@ export class ZonesPage {
 
   constructor(public navCtrl: NavController,
   			  public navParams: NavParams,
-  			  private db: AngularFireDatabase,
+  			  private plazasProvider: PlazasProvider,
   			  private modalCtrl: ModalController) {
   }
 
   ionViewDidLoad() {
     
-    this.db.list('/plazas').subscribe( plazas => {
+    this.plazasProvider.all().subscribe( plazas => {
 
       plazas.forEach( plaza => {
       	this.plazas[plaza.zone.toLowerCase()].push(plaza);

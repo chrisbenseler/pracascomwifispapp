@@ -1,0 +1,1523 @@
+{  
+   "plazas":[  
+      {  
+         "bairro":"Paraíso",
+         "id":"11",
+         "name":"CENTRO CULTURAL SÃO PAULO",
+         "address":"CENTRO CULTURAL SÃO PAULO",
+         "street":"R. Vergueiro  1000",
+         "zone":"CENTRO",
+         "url":"https://www.google.com.br/maps/preview?ie=utf-8&q=centro+cultural+s%c3%a3o+paulo&fb=1&gl=br&hq=centro+cultural+s%c3%a3o+paulo&hnear=centro+cultural+s%c3%a3o+paulo&cid=16463875656597355099&ei=myztu_ysnslgsase8olacq&ved=0ckmbepwsmbe",
+         "location":{  
+            "lat":-23.5711773,
+            "lng":-46.6402144
+         }
+      },
+      {  
+         "bairro":"República",
+         "id":"10",
+         "name":"LARGO DO AROUCHE",
+         "address":"LARGO DO AROUCHE",
+         "street":"Largo do Arouche",
+         "zone":"CENTRO",
+         "url":"http://goo.gl/maps/ozalp",
+         "location":{  
+            "lat":-23.5409853,
+            "lng":-46.646582
+         }
+      },
+      {  
+         "bairro":"Cambuci",
+         "id":"4",
+         "name":"LARGO DO CAMBUCI",
+         "address":"LARGO DO CAMBUCI",
+         "street":"Rua da Independência  94",
+         "zone":"CENTRO",
+         "url":"http://goo.gl/maps/5mp9k",
+         "location":{  
+            "lat":-23.5628492,
+            "lng":-46.6211141
+         }
+      },
+      {  
+         "bairro":"República",
+         "id":"14",
+         "name":"LARGO DO PAISSANDÚ",
+         "address":"LARGO DO PAISSANDÚ",
+         "street":"Largo do Paissandu",
+         "zone":"CENTRO",
+         "url":"http://goo.gl/maps/1z6sh",
+         "location":{  
+            "lat":-23.5427611,
+            "lng":-46.6377404
+         }
+      },
+      {  
+         "bairro":"Santa Cecília",
+         "id":"17",
+         "name":"LARGO SANTA CECILIA",
+         "address":"LARGO SANTA CECILIA",
+         "street":"Largo Santa Cecília",
+         "zone":"CENTRO",
+         "url":"http://goo.gl/maps/ntydy",
+         "location":{  
+            "lat":-23.539179,
+            "lng":-46.6500372
+         }
+      },
+      {  
+         "bairro":"Largo São Bento",
+         "id":"18",
+         "name":"LARGO SÃO BENTO",
+         "address":"LARGO SÃO BENTO",
+         "street":"",
+         "zone":"CENTRO",
+         "url":"http://goo.gl/maps/gimhp",
+         "location":{  
+            "lat":-23.5440087,
+            "lng":-46.6337936
+         }
+      },
+      {  
+         "bairro":"Largo Sâo Francisco",
+         "id":"16",
+         "name":"LARGO SÃO FRANCISCO",
+         "address":"LARGO SÃO FRANCISCO",
+         "street":"",
+         "zone":"CENTRO",
+         "url":"https://www.google.com.br/maps/place/largo+s%c3%a3o+francisco+-+s%c3%a9 +s%c3%a3o+paulo+-+sp +01005-010/@-23.549606 -46.6371027 19z/data=!4m2!3m1!1s0x94ce59aca8713b2f:0xe21281543f5468b",
+         "location":{  
+            "lat":-23.549848,
+            "lng":-46.6368084
+         }
+      },
+      {  
+         "bairro":"Bela Vista",
+         "id":"﻿1",
+         "name":"MASP",
+         "address":"MASP",
+         "street":"R. Peixoto Gomide  949",
+         "zone":"CENTRO",
+         "url":"http://goo.gl/maps/w4kdo",
+         "location":{  
+            "lat":-23.5505199,
+            "lng":-46.63330939999999
+         }
+      },
+      {  
+         "bairro":"MERCADO MUNICIPAL",
+         "id":"22",
+         "name":"MERCADO MUNICIPAL",
+         "address":"MERCADO MUNICIPAL",
+         "street":"Rua da Cantareira  206",
+         "zone":"CENTRO",
+         "url":"http://goo.gl/maps/dpfbg",
+         "location":{  
+            "lat":-23.5417974,
+            "lng":-46.6295013
+         }
+      },
+      {  
+         "bairro":"Liberdade",
+         "id":"8",
+         "name":"PARQUE DA ACLIMAÇÃO",
+         "address":"PARQUE DA ACLIMAÇÃO",
+         "street":"R. Muniz de Sousa  1119",
+         "zone":"CENTRO",
+         "url":"http://goo.gl/maps/joukj",
+         "location":{  
+            "lat":-23.5725626,
+            "lng":-46.62885490000001
+         }
+      },
+      {  
+         "bairro":"Bom Retiro",
+         "id":"3",
+         "name":"PARQUE DA LUZ",
+         "address":"PARQUE DA LUZ",
+         "street":"Praça da Luz  s/n",
+         "zone":"CENTRO",
+         "url":"http://goo.gl/maps/1vjxs",
+         "location":{  
+            "lat":-23.532996,
+            "lng":-46.6353106
+         }
+      },
+      {  
+         "bairro":"Parque Dom Pedro II",
+         "id":"21",
+         "name":"PARQUE DOM PEDRO II",
+         "address":"PARQUE DOM PEDRO II",
+         "street":"",
+         "zone":"CENTRO",
+         "url":"http://goo.gl/maps/wjlhq",
+         "location":{  
+            "lat":-23.5458833,
+            "lng":-46.62769549999999
+         }
+      },
+      {  
+         "bairro":"República",
+         "id":"13",
+         "name":"PRAÇA DA BANDEIRA",
+         "address":"PRAÇA DA BANDEIRA",
+         "street":"Praça da Bandeira",
+         "zone":"CENTRO",
+         "url":"http://goo.gl/maps/yndnb",
+         "location":{  
+            "lat":-21.5765288,
+            "lng":-41.9138834
+         }
+      },
+      {  
+         "bairro":"Liberdade",
+         "id":"9",
+         "name":"PRAÇA DA LIBERDADE",
+         "address":"PRAÇA DA LIBERDADE",
+         "street":"Praça da Liberdade",
+         "zone":"CENTRO",
+         "url":"http://goo.gl/maps/9gxn8",
+         "location":{  
+            "lat":-23.5550375,
+            "lng":-46.6358359
+         }
+      },
+      {  
+         "bairro":"República",
+         "id":"15",
+         "name":"PRAÇA DA REPÚBLICA",
+         "address":"PRAÇA DA REPÚBLICA",
+         "street":"Praça da República",
+         "zone":"CENTRO",
+         "url":"http://goo.gl/maps/tmd1r",
+         "location":{  
+            "lat":-23.544085,
+            "lng":-46.6425002
+         }
+      },
+      {  
+         "bairro":"PRAÇA DA SÉ",
+         "id":"23",
+         "name":"PRAÇA DA SÉ",
+         "address":"PRAÇA DA SÉ",
+         "street":"",
+         "zone":"CENTRO",
+         "url":"http://goo.gl/maps/rpwxn",
+         "location":{  
+            "lat":-23.5500806,
+            "lng":-46.6340827
+         }
+      },
+      {  
+         "bairro":"Praça do Patriarca",
+         "id":"20",
+         "name":"PRAÇA DO PATRIARCA",
+         "address":"PRAÇA DO PATRIARCA",
+         "street":"",
+         "zone":"CENTRO",
+         "url":"http://goo.gl/maps/8rvvj",
+         "location":{  
+            "lat":-23.5475109,
+            "lng":-46.6362481
+         }
+      },
+      {  
+         "bairro":"Consolação",
+         "id":"5",
+         "name":"PRAÇA DOM JOSÉ GASPAR",
+         "address":"PRAÇA DOM JOSÉ GASPAR",
+         "street":"Rua Doutor Bráulio Gomes  49",
+         "zone":"CENTRO",
+         "url":"http://goo.gl/maps/esqlu",
+         "location":{  
+            "lat":-23.5468322,
+            "lng":-46.642204
+         }
+      },
+      {  
+         "bairro":"Bela Vista",
+         "id":"2",
+         "name":"PRAÇA DON ORIONE",
+         "address":"PRAÇA DON ORIONE",
+         "street":"Viaduto Armando Puglisi",
+         "zone":"CENTRO",
+         "url":"http://goo.gl/maps/vcxai",
+         "location":{  
+            "lat":-23.5604648,
+            "lng":-46.64562290000001
+         }
+      },
+      {  
+         "bairro":"República",
+         "id":"12",
+         "name":"PRAÇA RAMOS DE AZEVEDO",
+         "address":"PRAÇA RAMOS DE AZEVEDO",
+         "street":"Praça Ramos de Azevedo",
+         "zone":"CENTRO",
+         "url":"http://goo.gl/maps/1r9fi",
+         "location":{  
+            "lat":-23.5454854,
+            "lng":-46.63924189999999
+         }
+      },
+      {  
+         "bairro":"Consolação",
+         "id":"7",
+         "name":"PRAÇA ROOSEVELT",
+         "address":"PRAÇA ROOSEVELT",
+         "street":"Praça Roosevelt",
+         "zone":"CENTRO",
+         "url":"http://goo.gl/maps/psmxm",
+         "location":{  
+            "lat":-23.5485384,
+            "lng":-46.6463429
+         }
+      },
+      {  
+         "bairro":"Consolação",
+         "id":"6",
+         "name":"PRAÇA ROTARY",
+         "address":"PRAÇA ROTARY",
+         "street":"Rua Major Sertório  561",
+         "zone":"CENTRO",
+         "url":"http://goo.gl/maps/1gnpr",
+         "location":{  
+            "lat":-23.5770324,
+            "lng":-46.5866889
+         }
+      },
+      {  
+         "bairro":"Páteo do Colégio",
+         "id":"19",
+         "name":"PÁTEO DO COLÉGIO",
+         "address":"PÁTEO DO COLÉGIO",
+         "street":"",
+         "zone":"CENTRO",
+         "url":"http://goo.gl/maps/16dgp",
+         "location":{  
+            "lat":-23.547934,
+            "lng":-46.6327084
+         }
+      },
+      {  
+         "bairro":"Brás",
+         "id":"26",
+         "name":"LARGO DA CONCÓRDIA",
+         "address":"LARGO DA CONCÓRDIA",
+         "street":"Largo da Concórdia",
+         "zone":"ZONA LESTE",
+         "url":"http://goo.gl/maps/obv5d",
+         "location":{  
+            "lat":-23.5423185,
+            "lng":-46.6167078
+         }
+      },
+      {  
+         "bairro":"Penha",
+         "id":"49",
+         "name":"LARGO DO ROSÁRIO",
+         "address":"LARGO DO ROSÁRIO",
+         "street":"Largo do Rosário  15  São Paulo  Brasil",
+         "zone":"ZONA LESTE",
+         "url":"http://goo.gl/maps/t0ieo",
+         "location":{  
+            "lat":-23.5253935,
+            "lng":-46.549119
+         }
+      },
+      {  
+         "bairro":"Vila Curuçá",
+         "id":"41",
+         "name":"PARQUE CHICO MENDES",
+         "address":"PARQUE CHICO MENDES",
+         "street":"Parque Chico Mendes - Rua Cembira  Vila Curuçá  São Paulo  Brasil",
+         "zone":"ZONA LESTE",
+         "url":"http://goo.gl/maps/soh6g",
+         "location":{  
+            "lat":-23.5067014,
+            "lng":-46.4284694
+         }
+      },
+      {  
+         "bairro":"Vila Prudente",
+         "id":"58",
+         "name":"PARQUE ECOLÓGICO DA VILA PRUDENTE",
+         "address":"PARQUE ECOLÓGICO DA VILA PRUDENTE",
+         "street":"Parque Ecológico Vila Prudente  São Paulo  SP  Brasil",
+         "zone":"ZONA LESTE",
+         "url":"http://goo.gl/maps/zxav2",
+         "location":{  
+            "lat":-23.5854836,
+            "lng":-46.5659886
+         }
+      },
+      {  
+         "bairro":"Cangaíba",
+         "id":"48",
+         "name":"PARQUE LINEAR TIQUATIRA",
+         "address":"PARQUE LINEAR TIQUATIRA",
+         "street":"Avenida Governador Carvalho Pinto  1759  São Paulo  Brasil",
+         "zone":"ZONA LESTE",
+         "url":"http://goo.gl/maps/up32r",
+         "location":{  
+            "lat":-23.5148167,
+            "lng":-46.5342664
+         }
+      },
+      {  
+         "bairro":"José Bonifácio",
+         "id":"45",
+         "name":"PARQUE RAUL SEIXAS",
+         "address":"PARQUE RAUL SEIXAS",
+         "street":"Rua Murmúrios da Tarde  190  São Paulo  Brasil",
+         "zone":"ZONA LESTE",
+         "url":"http://goo.gl/maps/sxfoy",
+         "location":{  
+            "lat":-23.5528592,
+            "lng":-46.4430273
+         }
+      },
+      {  
+         "bairro":"Itaim Paulista",
+         "id":"39",
+         "name":"PARQUE SANTA AMÉLIA",
+         "address":"PARQUE SANTA AMÉLIA",
+         "street":"Rua Rio Contagem  72",
+         "zone":"ZONA LESTE",
+         "url":"http://goo.gl/maps/p62jn",
+         "location":{  
+            "lat":-23.4999648,
+            "lng":-46.3756664
+         }
+      },
+      {  
+         "bairro":"Parque do Carmo",
+         "id":"46",
+         "name":"PRAÇA AUGUSTO DOMINGUES ALVES MAIA",
+         "address":"PRAÇA AUGUSTO DOMINGUES ALVES MAIA",
+         "street":"Rua Arcádia Paulistana  375  São Paulo  Brasil",
+         "zone":"ZONA LESTE",
+         "url":"http://goo.gl/maps/6pyac",
+         "location":{  
+            "lat":-23.5576843,
+            "lng":-46.44518069999999
+         }
+      },
+      {  
+         "bairro":"José Bonifácio",
+         "id":"44",
+         "name":"PRAÇA BRASIL (PRAÇA MÃE MENININHA DO GANTOIS)",
+         "address":"PRAÇA BRASIL (PRAÇA MÃE MENININHA DO GANTOIS)",
+         "street":"Rua Cecília Porto  9  São Paulo  Brasil",
+         "zone":"ZONA LESTE",
+         "url":"http://goo.gl/maps/ggccg"
+      },
+      {  
+         "bairro":"Lajeado",
+         "id":"38",
+         "name":"PRAÇA CECÍLIA MARQUES DE ARAÚJO",
+         "address":"PRAÇA CECÍLIA MARQUES DE ARAÚJO",
+         "street":"Rua Gonçalves de Oliveira  13",
+         "zone":"ZONA LESTE",
+         "url":"http://goo.gl/maps/epzah",
+         "location":{  
+            "lat":-23.5345768,
+            "lng":-46.4128264
+         }
+      },
+      {  
+         "bairro":"Mooca",
+         "id":"27",
+         "name":"PRAÇA CIRO PONTES / AO LADO DO SENAI",
+         "address":"PRAÇA CIRO PONTES / AO LADO DO SENAI",
+         "street":"Praça Ciro Pontes",
+         "zone":"ZONA LESTE",
+         "url":"http://goo.gl/maps/syidr"
+      },
+      {  
+         "bairro":"Jardim Helena",
+         "id":"54",
+         "name":"PRAÇA CRAVEIRO DO CAMPO",
+         "address":"PRAÇA CRAVEIRO DO CAMPO",
+         "street":"Rua Kumaki Aoki  1074  Jardim Helena  São Paulo  Brasil",
+         "zone":"ZONA LESTE",
+         "url":"http://goo.gl/maps/907xr",
+         "location":{  
+            "lat":-23.4785066,
+            "lng":-46.4201352
+         }
+      },
+      {  
+         "bairro":"Vila Matilde",
+         "id":"50",
+         "name":"PRAÇA DA CONQUISTA (PRAÇA VEREADOR JOÃO APARECIDO DE PAULA)",
+         "address":"PRAÇA DA CONQUISTA (PRAÇA VEREADOR JOÃO APARECIDO DE PAULA)",
+         "street":"Rua Dona Matilde  479  Vila Matilde  São Paulo  Brasil",
+         "zone":"ZONA LESTE",
+         "url":"http://goo.gl/maps/i0gvm"
+      },
+      {  
+         "bairro":"",
+         "id":"35",
+         "name":"PRAÇA DA ESTAÇÃO VILA MARA",
+         "address":"PRAÇA DA ESTAÇÃO VILA MARA",
+         "street":"",
+         "zone":"ZONA LESTE",
+         "url":"http://goo.gl/maps/xbjbn",
+         "location":{  
+            "lat":-23.492678,
+            "lng":-46.4210734
+         }
+      },
+      {  
+         "bairro":"Artur Alvim",
+         "id":"47",
+         "name":"PRAÇA DILVA GOMES MARTINS (COHAB 1)",
+         "address":"PRAÇA DILVA GOMES MARTINS (COHAB 1)",
+         "street":"Rua Padre Manuel Barreto  68  COHAB Padre Manoel da Nóbrega  São Paulo - SP  Brasil",
+         "zone":"ZONA LESTE",
+         "url":"http://goo.gl/maps/dqdd6",
+         "location":{  
+            "lat":-23.546406,
+            "lng":-46.4830593
+         }
+      },
+      {  
+         "bairro":"Cidade Tiradentes",
+         "id":"33",
+         "name":"PRAÇA DO 65 / POMBAS URBANAS",
+         "address":"PRAÇA DO 65 / POMBAS URBANAS",
+         "street":"Avenida dos Metalúrgicos  2249",
+         "zone":"ZONA LESTE",
+         "url":"http://goo.gl/maps/zxyvq",
+         "location":{  
+            "lat":-23.5996693,
+            "lng":-46.4019975
+         }
+      },
+      {  
+         "bairro":"Cidade Tiradentes",
+         "id":"34",
+         "name":"PRAÇA DO TERMINAL METALÚRGICOS",
+         "address":"PRAÇA DO TERMINAL METALÚRGICOS",
+         "street":"Avenida dos Metalúrgicos  sn  Cidade Tiradentes  São Paulo  Brasil",
+         "zone":"ZONA LESTE",
+         "url":"http://goo.gl/maps/bfzks",
+         "location":{  
+            "lat":-23.5626547,
+            "lng":-46.635276
+         }
+      },
+      {  
+         "bairro":"São Mateus",
+         "id":"52",
+         "name":"PRAÇA FELISBERTO FERNANDES DA SILVA / LARGO SÃO MATEUS",
+         "address":"PRAÇA FELISBERTO FERNANDES DA SILVA / LARGO SÃO MATEUS",
+         "street":"Rua Manuel André  88  São Paulo  Brasil",
+         "zone":"ZONA LESTE",
+         "url":"http://goo.gl/maps/njfnv",
+         "location":{  
+            "lat":-23.6119132,
+            "lng":-46.4756474
+         }
+      },
+      {  
+         "bairro":"Vila Jacuí",
+         "id":"56",
+         "name":"PRAÇA FORTUNATO DA SILVEIRA / UNICSUL",
+         "address":"PRAÇA FORTUNATO DA SILVEIRA / UNICSUL",
+         "street":"Rua Vilma  222 - Vila Jacui",
+         "zone":"ZONA LESTE",
+         "url":"http://goo.gl/maps/n0wdq",
+         "location":{  
+            "lat":-23.4996517,
+            "lng":-46.4506284
+         }
+      },
+      {  
+         "bairro":"Belém",
+         "id":"25",
+         "name":"PRAÇA GENERAL HUMBERTO DE SOUSA MELLO",
+         "address":"PRAÇA GENERAL HUMBERTO DE SOUSA MELLO",
+         "street":"Rua Marcos Arruda  782",
+         "zone":"ZONA LESTE",
+         "url":"http://goo.gl/maps/ekybg",
+         "location":{  
+            "lat":-23.5300922,
+            "lng":-46.60218099999999
+         }
+      },
+      {  
+         "bairro":"Ponte Rasa",
+         "id":"36",
+         "name":"PRAÇA GIOVANI FANI",
+         "address":"PRAÇA GIOVANI FANI",
+         "street":"Praça Giovanni Fiani?  Vila Ponte Rasa  São Paulo - SP  Brasil",
+         "zone":"ZONA LESTE",
+         "url":"http://goo.gl/maps/jfmfj",
+         "location":{  
+            "lat":-23.5076975,
+            "lng":-46.4897846
+         }
+      },
+      {  
+         "bairro":"Vila Curuçá",
+         "id":"40",
+         "name":"PRAÇA JAGUAMITANGA",
+         "address":"PRAÇA JAGUAMITANGA",
+         "street":"Rua Guaxima  163  Vila Curuçá  São Paulo  Brasil",
+         "zone":"ZONA LESTE",
+         "url":"http://goo.gl/maps/zdkjv",
+         "location":{  
+            "lat":-23.5015997,
+            "lng":-46.421921
+         }
+      },
+      {  
+         "bairro":"Guaianases",
+         "id":"37",
+         "name":"PRAÇA JESUS TEIXEIRA DA COSTA",
+         "address":"PRAÇA JESUS TEIXEIRA DA COSTA",
+         "street":"Rua Caranaíba  148 - Guaianases  São Paulo - SP  Brasil (PS: a praça na verdade são vários espaços públicos entre essas ruas)",
+         "zone":"ZONA LESTE",
+         "url":"http://goo.gl/maps/w6ums",
+         "location":{  
+            "lat":-23.5441925,
+            "lng":-46.4104633
+         }
+      },
+      {  
+         "bairro":"Pari",
+         "id":"28",
+         "name":"PRAÇA KANTUTA",
+         "address":"PRAÇA KANTUTA",
+         "street":"Praça Kantuta",
+         "zone":"ZONA LESTE",
+         "url":"http://goo.gl/maps/ykuzq",
+         "location":{  
+            "lat":-23.526682,
+            "lng":-46.6214163
+         }
+      },
+      {  
+         "bairro":"Itaquera",
+         "id":"43",
+         "name":"PRAÇA NA RUA GREGÓRIO RAMALHO",
+         "address":"PRAÇA NA RUA GREGÓRIO RAMALHO",
+         "street":"Rua Gregório Ramalho  239  São Paulo  Brasil",
+         "zone":"ZONA LESTE",
+         "url":"http://goo.gl/maps/vcbjy",
+         "location":{  
+            "lat":-23.5373963,
+            "lng":-46.4553749
+         }
+      },
+      {  
+         "bairro":"Iguatemi",
+         "id":"51",
+         "name":"PRAÇA OSLEI FRANCISCO BORGES",
+         "address":"PRAÇA OSLEI FRANCISCO BORGES",
+         "street":"Rua Tauro  58 - Recanto Verde do Sol  São Paulo - SP  08381-770  Brasil",
+         "zone":"ZONA LESTE",
+         "url":"http://goo.gl/maps/ris79",
+         "location":{  
+            "lat":-23.612813,
+            "lng":-46.4239409
+         }
+      },
+      {  
+         "bairro":"São Rafael",
+         "id":"53",
+         "name":"PRAÇA OSVALDO LUÍS DA SILVEIRA",
+         "address":"PRAÇA OSVALDO LUÍS DA SILVEIRA",
+         "street":"Rua Ponte do Guaré  88  São Paulo  Brasil",
+         "zone":"ZONA LESTE",
+         "url":"http://goo.gl/maps/xey4z",
+         "location":{  
+            "lat":-23.6227157,
+            "lng":-46.4686906
+         }
+      },
+      {  
+         "bairro":"São Miguel",
+         "id":"55",
+         "name":"PRAÇA PADRE ALEIXO (DO FORRÓ)",
+         "address":"PRAÇA PADRE ALEIXO (DO FORRÓ)",
+         "street":"Praça Padre Aleixo Monteiro Mafra  São Miguel Paulista  São Paulo  Brasil",
+         "zone":"ZONA LESTE",
+         "url":"http://goo.gl/maps/o4uz1",
+         "location":{  
+            "lat":-23.493309,
+            "lng":-46.4453133
+         }
+      },
+      {  
+         "bairro":"São Lucas",
+         "id":"57",
+         "name":"PRAÇA PADRE DAMIÃO",
+         "address":"PRAÇA PADRE DAMIÃO",
+         "street":"Praça Padre Damião - Vila Prudente?  São Paulo - SP  03126-050",
+         "zone":"ZONA LESTE",
+         "url":"http://goo.gl/maps/l0mut",
+         "location":{  
+            "lat":-23.5812048,
+            "lng":-46.5852841
+         }
+      },
+      {  
+         "bairro":"Cidade Líder",
+         "id":"42",
+         "name":"PRAÇA PROFESSORAS (NA AV. DAS ALAMANDAS)",
+         "address":"PRAÇA PROFESSORAS (NA AV. DAS ALAMANDAS)",
+         "street":"Avenida das Alamandas  12  São Paulo  Brasil",
+         "zone":"ZONA LESTE",
+         "url":"http://goo.gl/maps/foqe2",
+         "location":{  
+            "lat":-23.5361061,
+            "lng":-46.4673458
+         }
+      },
+      {  
+         "bairro":"Vila Formosa",
+         "id":"32",
+         "name":"PRAÇA SAMPAIO VIDAL",
+         "address":"PRAÇA SAMPAIO VIDAL",
+         "street":"Praça Doutor Sampaio Vidal",
+         "zone":"ZONA LESTE",
+         "url":"http://goo.gl/maps/qe92v",
+         "location":{  
+            "lat":-23.568013,
+            "lng":-46.5403756
+         }
+      },
+      {  
+         "bairro":"Tatuapé",
+         "id":"29",
+         "name":"PRAÇA SILVIO ROMERO",
+         "address":"PRAÇA SILVIO ROMERO",
+         "street":"Praça Silvio Romero",
+         "zone":"ZONA LESTE",
+         "url":"http://goo.gl/maps/vzbah",
+         "location":{  
+            "lat":-23.545051,
+            "lng":-46.5735035
+         }
+      },
+      {  
+         "bairro":"Aricanduva",
+         "id":"30",
+         "name":"PRAÇA SÃO JOÃO VICENZOTTO",
+         "address":"PRAÇA SÃO JOÃO VICENZOTTO",
+         "street":"Praça São João Vicenzotto",
+         "zone":"ZONA LESTE",
+         "url":"http://goo.gl/maps/srafg",
+         "location":{  
+            "lat":-23.5648713,
+            "lng":-46.5127344
+         }
+      },
+      {  
+         "bairro":"Água Rasa",
+         "id":"24",
+         "name":"PRAÇA SÃO LUIS DO CURU",
+         "address":"PRAÇA SÃO LUIS DO CURU",
+         "street":"Rua Capitão Lorena  84",
+         "zone":"ZONA LESTE",
+         "url":"http://goo.gl/maps/dje94",
+         "location":{  
+            "lat":-23.5694249,
+            "lng":-46.56671
+         }
+      },
+      {  
+         "bairro":"Sapopemba",
+         "id":"59",
+         "name":"PRAÇA TORQUATO PLAZA",
+         "address":"PRAÇA TORQUATO PLAZA",
+         "street":"Praça Torquato Plaza  Jardim Grimaldi  São Paulo",
+         "zone":"ZONA LESTE",
+         "url":"http://goo.gl/maps/wn2cb",
+         "location":{  
+            "lat":-23.5989889,
+            "lng":-46.51646849999999
+         }
+      },
+      {  
+         "bairro":"Carrão",
+         "id":"31",
+         "name":"PRAÇA VICENTE FALCETTA",
+         "address":"PRAÇA VICENTE FALCETTA",
+         "street":"Praça Vicente Falcetta",
+         "zone":"ZONA LESTE",
+         "url":"http://goo.gl/maps/bh9t2",
+         "location":{  
+            "lat":-23.548456,
+            "lng":-46.5371925
+         }
+      },
+      {  
+         "bairro":"Freguesia do Ó",
+         "id":"64",
+         "name":"LARGO DA MATRIZ",
+         "address":"LARGO DA MATRIZ",
+         "street":"Largo da Matriz de Nossa Senhora do Ó  Freguesia do Ó  São Paulo  Brasil",
+         "zone":"ZONA NORTE",
+         "url":"http://goo.gl/maps/mffsz",
+         "location":{  
+            "lat":-23.5398502,
+            "lng":-46.453391
+         }
+      },
+      {  
+         "bairro":"Cachoeirinha",
+         "id":"60",
+         "name":"LARGO DO JAPONES",
+         "address":"LARGO DO JAPONES",
+         "street":"Largo do Japonês  São Paulo  Brasil",
+         "zone":"ZONA NORTE",
+         "url":"http://goo.gl/maps/tss3h",
+         "location":{  
+            "lat":-23.4738524,
+            "lng":-46.6672462
+         }
+      },
+      {  
+         "bairro":"Santana",
+         "id":"73",
+         "name":"PARQUE DOMINGOS LUÍS",
+         "address":"PARQUE DOMINGOS LUÍS",
+         "street":"Parque Domingos Luis  São Paulo  SP  Brasil",
+         "zone":"ZONA NORTE",
+         "url":"http://goo.gl/maps/s1ocy",
+         "location":{  
+            "lat":-23.4931782,
+            "lng":-46.6151166
+         }
+      },
+      {  
+         "bairro":"Bom Retiro",
+         "id":"78",
+         "name":"PARQUE TIETÊ",
+         "address":"PARQUE TIETÊ",
+         "street":"Av. santos dumont 843 - Bom Retiro",
+         "zone":"ZONA NORTE",
+         "url":"http://goo.gl/wd7mvv",
+         "location":{  
+            "lat":-23.4948097,
+            "lng":-46.52571649999999
+         }
+      },
+      {  
+         "bairro":"São Domingos",
+         "id":"71",
+         "name":"PRAÇA 14º ÁREA / RUA CALDAS NOVAS / RUA DOZE",
+         "address":"PRAÇA 14º ÁREA / RUA CALDAS NOVAS / RUA DOZE",
+         "street":"Rua Caldas Novas  93  São Paulo  Brasil",
+         "zone":"ZONA NORTE",
+         "url":"http://goo.gl/maps/dlmgy"
+      },
+      {  
+         "bairro":"Anhanguera",
+         "id":"67",
+         "name":"PRAÇA DA CULTURA",
+         "address":"PRAÇA DA CULTURA",
+         "street":"Rua Alberto Gentili  431  São Paulo  Brasil",
+         "zone":"ZONA NORTE",
+         "url":"http://goo.gl/maps/zrtir",
+         "location":{  
+            "lat":-23.4327925,
+            "lng":-46.793502
+         }
+      },
+      {  
+         "bairro":"Jaçanã",
+         "id":"65",
+         "name":"PRAÇA DOUTOR JOÃO BATISTA VASQUES",
+         "address":"PRAÇA DOUTOR JOÃO BATISTA VASQUES",
+         "street":"Rua Benjamin Pereira  762  Jaçanã  São Paulo  Brasil",
+         "zone":"ZONA NORTE",
+         "url":"http://goo.gl/maps/objbw",
+         "location":{  
+            "lat":-23.4656513,
+            "lng":-46.5837498
+         }
+      },
+      {  
+         "bairro":"Pirituba",
+         "id":"70",
+         "name":"PRAÇA JOÃO BOLDO",
+         "address":"PRAÇA JOÃO BOLDO",
+         "street":"Rua Comendador Feiz Zarzur  146  São Paulo  Brasil",
+         "zone":"ZONA NORTE",
+         "url":"http://goo.gl/maps/wsfzp",
+         "location":{  
+            "lat":-23.4806418,
+            "lng":-46.7185692
+         }
+      },
+      {  
+         "bairro":"Vila Medeiros",
+         "id":"77",
+         "name":"PRAÇA LOURENÇO DE BELLIS",
+         "address":"PRAÇA LOURENÇO DE BELLIS",
+         "street":"Av. João Simão de Castro  252 - Vila Medeiros São Paulo  02141-000",
+         "zone":"ZONA NORTE",
+         "url":"http://goo.gl/maps/6xk2k",
+         "location":{  
+            "lat":-23.4896662,
+            "lng":-46.5745119
+         }
+      },
+      {  
+         "bairro":"Limão",
+         "id":"62",
+         "name":"PRAÇA MARCO ANTONIO PRIMON MAESTRE",
+         "address":"PRAÇA MARCO ANTONIO PRIMON MAESTRE",
+         "street":"Praça Marco Antônio Primon Maestre - Limão  São Paulo - SP  02710-030  Brasil",
+         "zone":"ZONA NORTE",
+         "url":"http://goo.gl/maps/6scic",
+         "location":{  
+            "lat":-23.5056257,
+            "lng":-46.6729279
+         }
+      },
+      {  
+         "bairro":"Tremembé",
+         "id":"66",
+         "name":"PRAÇA MARIQUINHA SCIASCIA",
+         "address":"PRAÇA MARIQUINHA SCIASCIA",
+         "street":"Praça Dona Mariquinha Sciascia  Tremembé  São Paulo  Brasil",
+         "zone":"ZONA NORTE",
+         "url":"http://goo.gl/maps/2gmfn",
+         "location":{  
+            "lat":-23.459243,
+            "lng":-46.6237708
+         }
+      },
+      {  
+         "bairro":"Brasilândia",
+         "id":"63",
+         "name":"PRAÇA NA RUA DAS IBIRAIARAS",
+         "address":"PRAÇA NA RUA DAS IBIRAIARAS",
+         "street":"Rua das Ibiraiaras  400",
+         "zone":"ZONA NORTE",
+         "url":"http://goo.gl/maps/s7ui0",
+         "location":{  
+            "lat":-23.4509094,
+            "lng":-46.6882053
+         }
+      },
+      {  
+         "bairro":"Tucuruvi",
+         "id":"74",
+         "name":"PRAÇA NOSSA SENHORA DOS PRAZERES",
+         "address":"PRAÇA NOSSA SENHORA DOS PRAZERES",
+         "street":"Praça Nossa Senhora dos Prazeres  Vila Dom Pedro II  São Paulo - SP  Brasil?",
+         "zone":"ZONA NORTE",
+         "url":"http://goo.gl/maps/xujwy",
+         "location":{  
+            "lat":-23.4893517,
+            "lng":-46.6095508
+         }
+      },
+      {  
+         "bairro":"Vila Maria",
+         "id":"76",
+         "name":"PRAÇA NOVO MUNDO",
+         "address":"PRAÇA NOVO MUNDO",
+         "street":"Praça Novo Mundo - Parque Novo Mundo  São Paulo - SP  Brasil",
+         "zone":"ZONA NORTE",
+         "url":"http://goo.gl/maps/qgkpf",
+         "location":{  
+            "lat":-23.5172792,
+            "lng":-46.5676783
+         }
+      },
+      {  
+         "bairro":"Vila Guilherme",
+         "id":"75",
+         "name":"PRAÇA OSCAR DA SILVA",
+         "address":"PRAÇA OSCAR DA SILVA",
+         "street":"Praça Oscar da Silva - Vila Guilherme  São Paulo - SP  02067-070  Brasil",
+         "zone":"ZONA NORTE",
+         "url":"http://goo.gl/maps/ohini",
+         "location":{  
+            "lat":-23.5074384,
+            "lng":-46.60115159999999
+         }
+      },
+      {  
+         "bairro":"Mandaqui",
+         "id":"72",
+         "name":"PRAÇA VEREADOR ANTONIO SAMPAIO / AV ULTRAMARINO",
+         "address":"PRAÇA VEREADOR ANTONIO SAMPAIO / AV ULTRAMARINO",
+         "street":"Avenida Ultramarino  262  São Paulo  Brasil",
+         "zone":"ZONA NORTE",
+         "url":"http://goo.gl/maps/ffjx2",
+         "location":{  
+            "lat":-23.5142859,
+            "lng":-46.6265313
+         }
+      },
+      {  
+         "bairro":"Perus",
+         "id":"68",
+         "name":"PRAÇA VIGÁRIO JOÃO G. DE LIMA (PRAÇA DO SAMBA)",
+         "address":"PRAÇA VIGÁRIO JOÃO G. DE LIMA (PRAÇA DO SAMBA)",
+         "street":"Praça Vigário João Gonçalves de Lima  São Paulo  Brasil",
+         "zone":"ZONA NORTE",
+         "url":"http://goo.gl/maps/z0slv",
+         "location":{  
+            "lat":-23.4990973,
+            "lng":-46.6443135
+         }
+      },
+      {  
+         "bairro":"PRAÇA DAS MONÇÕES",
+         "id":"61",
+         "name":"TERMINAL CASA VERDE",
+         "address":"TERMINAL CASA VERDE",
+         "street":"Rua Bahia Formosa  90  São Paulo",
+         "zone":"ZONA NORTE",
+         "url":"http://goo.gl/maps/geft5",
+         "location":{  
+            "lat":-23.4961751,
+            "lng":-46.6625795
+         }
+      },
+      {  
+         "bairro":"Pinheiros",
+         "id":"93",
+         "name":"LARGO DA BATATA",
+         "address":"LARGO DA BATATA",
+         "street":"Avenida Brigadeiro Faria Lima  860  São Paulo  Brasil",
+         "zone":"ZONA OESTE",
+         "url":"http://goo.gl/maps/ip8ow",
+         "location":{  
+            "lat":-23.5665817,
+            "lng":-46.6943435
+         }
+      },
+      {  
+         "bairro":"Morumbi",
+         "id":"86",
+         "name":"PARQUE ALFREDO VOLPI",
+         "address":"PARQUE ALFREDO VOLPI",
+         "street":"Av. Eng. Oscar Americano  480 - Morumbi  São Paulo  05673-050",
+         "zone":"ZONA OESTE",
+         "url":"http://goo.gl/maps/obxjs",
+         "location":{  
+            "lat":-23.5893609,
+            "lng":-46.7015135
+         }
+      },
+      {  
+         "bairro":"Raposo Tavares",
+         "id":"87",
+         "name":"PARQUE RAPOSO TAVARES",
+         "address":"PARQUE RAPOSO TAVARES",
+         "street":"Parque Raposo Tavares - São Paulo - SP  Brasil ?",
+         "zone":"ZONA OESTE",
+         "url":"http://goo.gl/maps/uuznv",
+         "location":{  
+            "lat":-23.5880594,
+            "lng":-46.75615639999999
+         }
+      },
+      {  
+         "bairro":"Itaim Bibi",
+         "id":"91",
+         "name":"PRAÇA ARLINDO ROSSI",
+         "address":"PRAÇA ARLINDO ROSSI",
+         "street":"R. Araçaíba  38 - Brooklin  Itaim Bibi São Paulo  04568-030",
+         "zone":"ZONA OESTE",
+         "url":"http://goo.gl/maps/1vtai",
+         "location":{  
+            "lat":-23.6128596,
+            "lng":-46.6928008
+         }
+      },
+      {  
+         "bairro":"Jardim Paulista",
+         "id":"92",
+         "name":"PRAÇA BENEDITO CALIXTO",
+         "address":"PRAÇA BENEDITO CALIXTO",
+         "street":"R. Teodoro Sampaio  1118 - Jardim Paulista São Paulo  05406-050",
+         "zone":"ZONA OESTE",
+         "url":"http://goo.gl/maps/gkmoi",
+         "location":{  
+            "lat":-23.558226,
+            "lng":-46.6806175
+         }
+      },
+      {  
+         "bairro":"Barra Funda",
+         "id":"79",
+         "name":"PRAÇA CONDE FRANCISCO MATARAZZO",
+         "address":"PRAÇA CONDE FRANCISCO MATARAZZO",
+         "street":"Praça Conde Francisco Matarazzo Junior  Água Branca  São Paulo - SP  Brasil ?",
+         "zone":"ZONA OESTE",
+         "url":"http://goo.gl/maps/fmhxt",
+         "location":{  
+            "lat":-23.5264942,
+            "lng":-46.6771882
+         }
+      },
+      {  
+         "bairro":"Lapa",
+         "id":"82",
+         "name":"PRAÇA CORNÉLIA",
+         "address":"PRAÇA CORNÉLIA",
+         "street":"R. Crasso  289 - Lapa São Paulo  05043-010",
+         "zone":"ZONA OESTE",
+         "url":"http://goo.gl/maps/zrzce",
+         "location":{  
+            "lat":-23.5249716,
+            "lng":-46.6903335
+         }
+      },
+      {  
+         "bairro":"Alto de Pinheiros",
+         "id":"90",
+         "name":"PRAÇA DO PÔR-DO-SOL",
+         "address":"PRAÇA DO PÔR-DO-SOL",
+         "street":"Av. Diógenes Ribeiro de Lima  110 - Alto de Pinheiros São Paulo  05458-000",
+         "zone":"ZONA OESTE",
+         "url":"http://goo.gl/maps/ssbvy",
+         "location":{  
+            "lat":-23.5540283,
+            "lng":-46.7022141
+         }
+      },
+      {  
+         "bairro":"Butantã",
+         "id":"85",
+         "name":"PRAÇA ELIS REGINA",
+         "address":"PRAÇA ELIS REGINA",
+         "street":"Praça Elis Regina",
+         "zone":"ZONA OESTE",
+         "url":"http://goo.gl/maps/db97z",
+         "location":{  
+            "lat":-23.5769699,
+            "lng":-46.730836
+         }
+      },
+      {  
+         "bairro":"Vila Sônia",
+         "id":"89",
+         "name":"PRAÇA ENG. NORIWUKI YAMAMOTO",
+         "address":"PRAÇA ENG. NORIWUKI YAMAMOTO",
+         "street":"Praça Eng. Noriyuki Yamamoto - Jardim Colombo  São Paulo  Brasil",
+         "zone":"ZONA OESTE",
+         "url":"http://goo.gl/maps/aztqc",
+         "location":{  
+            "lat":-23.6038933,
+            "lng":-46.7319971
+         }
+      },
+      {  
+         "bairro":"Jaguaré",
+         "id":"81",
+         "name":"PRAÇA GEN. PORTO CARREIRO",
+         "address":"PRAÇA GEN. PORTO CARREIRO",
+         "street":"Praça General Porto Carreiro - Jaguare  São Paulo - SP  05331-040  Brasil ?",
+         "zone":"ZONA OESTE",
+         "url":"http://goo.gl/maps/jwlco",
+         "location":{  
+            "lat":-23.5467168,
+            "lng":-46.74880049999999
+         }
+      },
+      {  
+         "bairro":"Jaguara",
+         "id":"80",
+         "name":"PRAÇA GENERAL GUIMARÃES",
+         "address":"PRAÇA GENERAL GUIMARÃES",
+         "street":"Praça General Guimarães  São Paulo - SP  Brasil",
+         "zone":"ZONA OESTE",
+         "url":"http://goo.gl/maps/dndcj",
+         "location":{  
+            "lat":-23.5084157,
+            "lng":-46.7507425
+         }
+      },
+      {  
+         "bairro":"Rio Pequeno",
+         "id":"88",
+         "name":"PRAÇA WILSON MOREIRA DA COSTA",
+         "address":"PRAÇA WILSON MOREIRA DA COSTA",
+         "street":"R. Mílton Soares  66 - Rio Pequeno São Paulo  05382-010",
+         "zone":"ZONA OESTE",
+         "url":"http://goo.gl/maps/ze0se",
+         "location":{  
+            "lat":-23.5734204,
+            "lng":-46.7612065
+         }
+      },
+      {  
+         "bairro":"Perdizes",
+         "id":"83",
+         "name":"PRAÇA ZILDA NATEL",
+         "address":"PRAÇA ZILDA NATEL",
+         "street":"Av. Dr. Arnaldo  1250 - Perdizes São Paulo  01255-000",
+         "zone":"ZONA OESTE",
+         "url":"http://goo.gl/maps/nghhm",
+         "location":{  
+            "lat":-23.5515552,
+            "lng":-46.6760364
+         }
+      },
+      {  
+         "bairro":"Parelheiros",
+         "id":"115",
+         "name":"ALDEIA TENONDE-PORÃ",
+         "address":"ALDEIA TENONDE-PORÃ",
+         "street":"Estrada João Lang  s/nº",
+         "zone":"ZONA SUL",
+         "url":"https://goo.gl/maps/ejyre",
+         "location":{  
+            "lat":-23.9006499,
+            "lng":-46.64668320000001
+         }
+      },
+      {  
+         "bairro":"Grajaú",
+         "id":"102",
+         "name":"CALÇADÃO CULTURAL DO GRAJAÚ",
+         "address":"CALÇADÃO CULTURAL DO GRAJAÚ",
+         "street":"Rua Professor Oscar Barreto Filho  252  Parque América  SP  Brasil",
+         "zone":"ZONA SUL",
+         "url":"https://goo.gl/maps/lgrtp",
+         "location":{  
+            "lat":-23.7355799,
+            "lng":-46.6916446
+         }
+      },
+      {  
+         "bairro":"Vila Andrade",
+         "id":"100",
+         "name":"CAMPO DO PALMEIRINHA - PARAISÓPOLIS",
+         "address":"CAMPO DO PALMEIRINHA - PARAISÓPOLIS",
+         "street":"R. Melchior Giola  157 - Paraisópolis  Vila Andrade São Paulo  05664-000",
+         "zone":"ZONA SUL",
+         "url":"http://goo.gl/maps/mtbou",
+         "location":{  
+            "lat":-23.6174786,
+            "lng":-46.7235469
+         }
+      },
+      {  
+         "bairro":"Campo Belo",
+         "id":"118",
+         "name":"CDC CAMPO BELO",
+         "address":"CDC CAMPO BELO",
+         "street":"Rua Sapoti  20",
+         "zone":"ZONA SUL",
+         "url":"https://goo.gl/maps/joqpp",
+         "location":{  
+            "lat":-23.625652,
+            "lng":-46.6635844
+         }
+      },
+      {  
+         "bairro":"Sacomã",
+         "id":"108",
+         "name":"CENTRO DE CONVIVÊNCIA EDUCATIVO E CULTURAL DE HELIÓPOLIS",
+         "address":"CENTRO DE CONVIVÊNCIA EDUCATIVO E CULTURAL DE HELIÓPOLIS",
+         "street":"Estrada das Lágrimas  2385 - São João Clímaco  CEP: 04232-000 São Paulo/SP",
+         "zone":"ZONA SUL",
+         "url":"https://goo.gl/maps/tbrm0",
+         "location":{  
+            "lat":-23.6224332,
+            "lng":-46.5908208
+         }
+      },
+      {  
+         "bairro":"Moema",
+         "id":"94",
+         "name":"LARGO DE MOEMA",
+         "address":"LARGO DE MOEMA",
+         "street":"Praça Nossa Senhora Aparecida - Indianópolis",
+         "zone":"ZONA SUL",
+         "url":"http://goo.gl/maps/dsckh",
+         "location":{  
+            "lat":-23.6056209,
+            "lng":-46.6572634
+         }
+      },
+      {  
+         "bairro":"Vila Mariana",
+         "id":"96",
+         "name":"LARGO DONA ANA ROSA",
+         "address":"LARGO DONA ANA ROSA",
+         "street":"Rua Vergueiro  2.100  São Paulo  04106-090",
+         "zone":"ZONA SUL",
+         "url":"http://goo.gl/maps/x7lhc",
+         "location":{  
+            "lat":-23.5819749,
+            "lng":-46.6386028
+         }
+      },
+      {  
+         "bairro":"Cursino",
+         "id":"107",
+         "name":"LARGO SANTA ANGELA",
+         "address":"LARGO SANTA ANGELA",
+         "street":"R. Sebastiano Mazzoni  193 - Vila Brasilina  Cursino São Paulo  04171-000",
+         "zone":"ZONA SUL",
+         "url":"https://goo.gl/maps/vnri2",
+         "location":{  
+            "lat":-23.6339264,
+            "lng":-46.6141338
+         }
+      },
+      {  
+         "bairro":"Ipiranga",
+         "id":"121",
+         "name":"PARQUE DA INDEPENDÊNCIA",
+         "address":"PARQUE DA INDEPENDÊNCIA",
+         "street":"Av. Nazareth  s/nº - Ipiranga",
+         "zone":"ZONA SUL",
+         "url":"http://goo.gl/maps/v8x8l",
+         "location":{  
+            "lat":-23.5841506,
+            "lng":-46.6098296
+         }
+      },
+      {  
+         "bairro":"Jabaquara",
+         "id":"111",
+         "name":"PARQUE DO NABUCO",
+         "address":"PARQUE DO NABUCO",
+         "street":"Rua Juan de La Cruz  2510  São Paulo  Brasil",
+         "zone":"ZONA SUL",
+         "url":"https://goo.gl/maps/tlquf",
+         "location":{  
+            "lat":-23.6627148,
+            "lng":-46.6602042
+         }
+      },
+      {  
+         "bairro":"Capão Redondo",
+         "id":"99",
+         "name":"PARQUE SANTO DIAS",
+         "address":"PARQUE SANTO DIAS",
+         "street":"Parque Santo Dias  Conjunto Habitacional Instituto Adventis  São Paulo  Brasil",
+         "zone":"ZONA SUL",
+         "url":"http://goo.gl/maps/jirw5",
+         "location":{  
+            "lat":-23.6631092,
+            "lng":-46.7729589
+         }
+      },
+      {  
+         "bairro":"Jardim Ângela",
+         "id":"112",
+         "name":"POLO CULTURAL DO JARDIM ÂNGELA",
+         "address":"POLO CULTURAL DO JARDIM ÂNGELA",
+         "street":"Estrada M'Boi Mirim  5780",
+         "zone":"ZONA SUL",
+         "url":"https://goo.gl/maps/81n4b"
+      },
+      {  
+         "bairro":"Socorro",
+         "id":"104",
+         "name":"PRAIA DO SOL",
+         "address":"PRAIA DO SOL",
+         "street":"AV. ATLÂNTICA 3456",
+         "zone":"ZONA SUL",
+         "url":"http://goo.gl/maps/0idfk",
+         "location":{  
+            "lat":-23.6971351,
+            "lng":-46.7151516
+         }
+      },
+      {  
+         "bairro":"Pedreira",
+         "id":"106",
+         "name":"PRAÇA ALEXANDRE FRANCISCO REBOUÇAS",
+         "address":"PRAÇA ALEXANDRE FRANCISCO REBOUÇAS",
+         "street":"Praça Alexandre Francisco Rebouças  Jardim Pedreira  São Paulo  Brasil",
+         "zone":"ZONA SUL",
+         "url":"https://goo.gl/maps/vdozz",
+         "location":{  
+            "lat":-23.6954403,
+            "lng":-46.6664939
+         }
+      },
+      {  
+         "bairro":"Jabaquara",
+         "id":"110",
+         "name":"PRAÇA ALFREDO EGYDIO DE SOUZA ARANHA (PARQUE LINA E PAULO RAIA)",
+         "address":"PRAÇA ALFREDO EGYDIO DE SOUZA ARANHA (PARQUE LINA E PAULO RAIA)",
+         "street":"Praça Alfredo Egydio de Souza Aranha",
+         "zone":"ZONA SUL",
+         "url":"https://goo.gl/maps/sfkih"
+      },
+      {  
+         "bairro":"Cidade Ademar",
+         "id":"105",
+         "name":"PRAÇA BACHAREL FERNANDO BRAGA PEREIRA DA ROCHA",
+         "address":"PRAÇA BACHAREL FERNANDO BRAGA PEREIRA DA ROCHA",
+         "street":"Praça Bacharel Fernando Braga Pereira da Rocha  04417-090 - Jardim Miriam  São Paulo",
+         "zone":"ZONA SUL",
+         "url":"http://goo.gl/maps/ygttf",
+         "location":{  
+            "lat":-23.6816204,
+            "lng":-46.6383029
+         }
+      },
+      {  
+         "bairro":"Sacomã",
+         "id":"109",
+         "name":"PRAÇA DIRCEU DE CASTRO FONTOURA",
+         "address":"PRAÇA DIRCEU DE CASTRO FONTOURA",
+         "street":"Rua Amadeu Giusti  203-251 - Sacomã  São Paulo - SP  04182-080",
+         "zone":"ZONA SUL",
+         "url":"https://goo.gl/maps/cw5ap",
+         "location":{  
+            "lat":-23.6404384,
+            "lng":-46.5974617
+         }
+      },
+      {  
+         "bairro":"Jardim São Luís",
+         "id":"114",
+         "name":"PRAÇA DO FEIRÃO SÃO LUIS",
+         "address":"PRAÇA DO FEIRÃO SÃO LUIS",
+         "street":"R. Arraial dos Couros  14 - Jardim São Luís São Paulo  05843-140",
+         "zone":"ZONA SUL",
+         "url":"https://goo.gl/maps/ceayl",
+         "location":{  
+            "lat":-23.6533803,
+            "lng":-46.7360648
+         }
+      },
+      {  
+         "bairro":"Jardim Ângela",
+         "id":"113",
+         "name":"PRAÇA DO LARGO DE PIRAPORINHA",
+         "address":"PRAÇA DO LARGO DE PIRAPORINHA",
+         "street":"Estrada do M’Boi Mirim  1.000",
+         "zone":"ZONA SUL",
+         "url":"https://goo.gl/maps/cn64k",
+         "location":{  
+            "lat":-23.7019944,
+            "lng":-46.5975305
+         }
+      },
+      {  
+         "bairro":"Cidade Dutra",
+         "id":"101",
+         "name":"PRAÇA ESCOLAR",
+         "address":"PRAÇA ESCOLAR",
+         "street":"Praça Escolar  Cidade Dutra  São Paulo - SP  Brasil",
+         "zone":"ZONA SUL",
+         "url":"https://goo.gl/maps/37j1z",
+         "location":{  
+            "lat":-23.7094714,
+            "lng":-46.6988621
+         }
+      },
+      {  
+         "bairro":"Santo Amaro",
+         "id":"120",
+         "name":"PRAÇA FLORIANO PEIXOTO",
+         "address":"PRAÇA FLORIANO PEIXOTO",
+         "street":"Praça Floriano Peixoto  Santo Amaro?  São Paulo - SP  04751-030",
+         "zone":"ZONA SUL",
+         "url":"https://goo.gl/maps/xt1ru",
+         "location":{  
+            "lat":-23.651472,
+            "lng":-46.7073635
+         }
+      },
+      {  
+         "bairro":"Marsilac",
+         "id":"117",
+         "name":"PRAÇA JOÃO ADÃO E PRAÇA JACÓ REIMBERG FILHO",
+         "address":"PRAÇA JOÃO ADÃO E PRAÇA JACÓ REIMBERG FILHO",
+         "street":"Estrada Eng. Marsilac  s/n  Parelheiros São Paulo  04893-040 ?",
+         "zone":"ZONA SUL",
+         "url":"https://goo.gl/maps/ffwl8"
+      },
+      {  
+         "bairro":"Grajaú",
+         "id":"103",
+         "name":"PRAÇA JOÃO BEIÇOLA",
+         "address":"PRAÇA JOÃO BEIÇOLA",
+         "street":"Av. Lourenço Cabreira  154 - Cidade Dutra São Paulo  04812-010",
+         "zone":"ZONA SUL",
+         "url":"http://goo.gl/maps/dxnpq",
+         "location":{  
+            "lat":-23.7147577,
+            "lng":-46.6907715
+         }
+      },
+      {  
+         "bairro":"Campo Limpo",
+         "id":"98",
+         "name":"PRAÇA JOÃO TADEU PRIOLLI (PRAÇA DO CAMPO LIMPO)",
+         "address":"PRAÇA JOÃO TADEU PRIOLLI (PRAÇA DO CAMPO LIMPO)",
+         "street":"R. Paul Gauguin  21 - Campo Limpo São Paulo  05789-090 ?",
+         "zone":"ZONA SUL",
+         "url":"http://goo.gl/maps/3xglo",
+         "location":{  
+            "lat":-23.633575,
+            "lng":-46.775838
+         }
+      },
+      {  
+         "bairro":"Parelheiros",
+         "id":"116",
+         "name":"PRAÇA JÚLIO CÉSAR DE CAMPOS",
+         "address":"PRAÇA JÚLIO CÉSAR DE CAMPOS",
+         "street":"Estr. Eng. Marcilac  13 - Parelheiros São Paulo  04893-000",
+         "zone":"ZONA SUL",
+         "url":"http://goo.gl/maps/ivbmq",
+         "location":{  
+            "lat":-23.8282027,
+            "lng":-46.7309567
+         }
+      },
+      {  
+         "bairro":"Campo Limpo",
+         "id":"97",
+         "name":"PRAÇA LUISA P DOS SANTOS (PRAÇA ARARIBA)",
+         "address":"PRAÇA LUISA P DOS SANTOS (PRAÇA ARARIBA)",
+         "street":"Praça Luísa Pêra dos Santos - Parque Arariba  São Paulo  Brasil",
+         "zone":"ZONA SUL",
+         "url":"http://goo.gl/maps/9xjpe",
+         "location":{  
+            "lat":-23.6407658,
+            "lng":-46.7495214
+         }
+      },
+      {  
+         "bairro":"Saúde",
+         "id":"95",
+         "name":"PRAÇA SANTA RITA DE CÁSSIA",
+         "address":"PRAÇA SANTA RITA DE CÁSSIA",
+         "street":"Praça Santa Rita de Cássia  Mirandópolis  São Paulo  Brasil",
+         "zone":"ZONA SUL",
+         "url":"http://goo.gl/maps/14dsp",
+         "location":{  
+            "lat":-23.6067672,
+            "lng":-46.6406694
+         }
+      },
+      {  
+         "bairro":"Campo Grande",
+         "id":"119",
+         "name":"PRAÇA TUNEY ARANTES",
+         "address":"PRAÇA TUNEY ARANTES",
+         "street":"Praça Tuney Arantes?  Jardim Anhanguera  São Paulo - SP",
+         "zone":"ZONA SUL",
+         "url":"https://goo.gl/maps/2jvxf",
+         "location":{  
+            "lat":-23.6618172,
+            "lng":-46.6864636
+         }
+      }
+   ]
+}

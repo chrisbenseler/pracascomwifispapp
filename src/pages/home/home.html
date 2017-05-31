@@ -8,9 +8,9 @@
 </ion-header>
 
 <ion-content>
-  <agm-map *ngIf="plazas.length > 0" [latitude]="coordinates.latitude" [longitude]="coordinates.longitude" [zoom]="zoom" [zoomControl]="true">
+  <agm-map *ngIf="(plazas | async)" [latitude]="coordinates.latitude" [longitude]="coordinates.longitude" [zoom]="zoom" [zoomControl]="true">
       <agm-marker
-        *ngFor="let plaza of plazas"
+        *ngFor="let plaza of (plazas | async)"
               [latitude]="plaza.location.lat"
               [longitude]="plaza.location.lng"
               [iconUrl]="'assets/wifismall.png'">

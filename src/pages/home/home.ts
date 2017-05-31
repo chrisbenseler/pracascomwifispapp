@@ -1,9 +1,11 @@
 import { Component } from '@angular/core';
+import { Observable } from 'rxjs/Observable';
 import { NavController, ModalController } from 'ionic-angular';
 import { Geolocation, Coordinates, Geoposition }from '@ionic-native/geolocation';
-import { AngularFireDatabase, FirebaseListObservable } from 'angularfire2/database';
 
 import { PlazaPage } from '../plaza/plaza';
+
+import { PlazasProvider } from '../../providers/plazas/plazas';
 
 @Component({
   selector: 'page-home',
@@ -11,13 +13,13 @@ import { PlazaPage } from '../plaza/plaza';
 })
 export class HomePage {
 
-  plazas = [];
+  plazas: Observable<Array<any>> = null;
   zoom: number = 14;
   coordinates: Coordinates = Object.create({});
 
   constructor(private navCtrl: NavController,
               private geolocation: Geolocation,
-              private db: AngularFireDatabase,
+              private plazasProvider: PlazasProvider,
               private modalCtrl: ModalController) {
 
   }
@@ -25,13 +27,8 @@ export class HomePage {
   ngAfterViewInit() {;
    
 
-    this.db.list('/plazas').subscribe( plazas => {
 
-      this.plazas = plazas.filter( plaza => plaza.location !== undefined)
-
-    }, (error) => {
-      console.error(error);
-    });
+    this.plazas = this.plazasProvider.all();
 
     this.loadMap();
    
