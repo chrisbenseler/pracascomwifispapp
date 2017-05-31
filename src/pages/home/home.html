@@ -1,0 +1,29 @@
+<ion-header>
+  <ion-navbar color='primary'>
+    <button ion-button menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+    <ion-title>Free Wifi em Praças SP</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content>
+  <agm-map *ngIf="plazas.length > 0" [latitude]="coordinates.latitude" [longitude]="coordinates.longitude" [zoom]="zoom" [zoomControl]="true">
+      <agm-marker
+        *ngFor="let plaza of plazas"
+              [latitude]="plaza.location.lat"
+              [longitude]="plaza.location.lng"
+              [iconUrl]="'assets/wifismall.png'">
+          <agm-info-window>
+              <strong>{{ plaza.name }}</strong><br />
+              <span>{{ plaza.street }}</span>
+              <button ion-button icon-right color='secondary' full (click)='handlePlazaClick(plaza)'>
+                detalhes
+                <ion-icon name="information-circle"></ion-icon>
+              </button>
+          </agm-info-window>
+
+      </agm-marker>
+  </agm-map>
+
+</ion-content>

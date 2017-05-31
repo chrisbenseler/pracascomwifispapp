@@ -1,0 +1,5 @@
+<ion-item *ngFor="let plaza of plazas" (click)='selectPlaza(plaza)'>
+  <h2>{{ plaza.name }}</h2>
+  <span>{{ plaza.street }}</span>
+  <ion-icon color='secondary' name="arrow-forward" item-right></ion-icon>
+</ion-item>
