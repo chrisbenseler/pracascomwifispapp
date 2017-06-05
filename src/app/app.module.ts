@@ -5,10 +5,11 @@ import { HttpModule, Http } from '@angular/http';
 
 import { MyApp } from './app.component';
 import { HomePage } from '../pages/home/home';
-import { ListPage } from '../pages/list/list';
+import { AboutPage } from '../pages/about/about';
 import { ZonesPage } from '../pages/zones/zones';
 import { PlazaPage } from '../pages/plaza/plaza';
 
+import { AppVersion } from '@ionic-native/app-version';
 import { StatusBar } from '@ionic-native/status-bar';
 import { SplashScreen } from '@ionic-native/splash-screen';
 import { Geolocation } from '@ionic-native/geolocation';
@@ -23,7 +24,7 @@ import { PlazasProvider } from '../providers/plazas/plazas';
   declarations: [
     MyApp,
     HomePage,
-    ListPage,
+    AboutPage,
     ZonesPage,
     PlazaPage,
     PlazasperzoneComponent
@@ -37,7 +38,8 @@ import { PlazasProvider } from '../providers/plazas/plazas';
     {
       links: [
         { component: ZonesPage, name: 'ZonesPage', segment: 'Zones' },
-        { component: PlazaPage, name: 'PlazaPage', segment: 'Plaza' }
+        { component: PlazaPage, name: 'PlazaPage', segment: 'Plaza' },
+        { component: AboutPage, name: 'AboutPage', segment: 'About' }
       ]
     }),
     AgmCoreModule.forRoot({ apiKey: 'AIzaSyA0F0GGjJclYIdrfeVxBTZeTwIXtnKmpF8' }),
@@ -46,7 +48,7 @@ import { PlazasProvider } from '../providers/plazas/plazas';
   entryComponents: [
     MyApp,
     HomePage,
-    ListPage,
+    AboutPage,
     ZonesPage,
     PlazaPage
   ],
@@ -54,6 +56,7 @@ import { PlazasProvider } from '../providers/plazas/plazas';
     StatusBar,
     SplashScreen,
     Geolocation,
+    AppVersion,
     {provide: ErrorHandler, useClass: IonicErrorHandler},
     PlazasProvider
   ]

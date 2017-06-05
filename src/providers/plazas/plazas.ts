@@ -12,11 +12,11 @@ import 'rxjs/add/operator/map';
 export class PlazasProvider {
 
   constructor(public http: Http) {
-    console.log('Hello PlazasProvider Provider');
+   
   }
 
   all() {
-  	return this.http.get('../assets/plazas.json')
+  	return this.http.get('./assets/plazas.json')
   	.map( data => data.json().plazas )
   	.map( plazas => plazas.filter( plaza => plaza.location) )
 

@@ -24,7 +24,13 @@ export class HomePage {
 
   }
 
-  ngAfterViewInit() {;
+  ngAfterViewInit() {
+
+    this.plazasProvider.all().subscribe( data => {
+      console.log('got data')
+    }, err => {
+      console.error('error read json')
+    })
    
 
 
