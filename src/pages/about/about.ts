@@ -7,12 +7,12 @@ import { Platform } from 'ionic-angular';
   templateUrl: 'about.html'
 })
 export class AboutPage {
-  
+
   public versionnumber: any = 1;
 
   constructor(public platform: Platform,
    public appVersion: AppVersion) {
-    
+
   }
 
   ionViewDidLoad() {
