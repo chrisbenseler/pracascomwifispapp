@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { IonicPage, NavController, NavParams } from 'ionic-angular';
+import { NavController, NavParams } from 'ionic-angular';
 import { ModalController } from 'ionic-angular';
 
 import { PlazasProvider } from '../../providers/plazas/plazas';
@@ -28,7 +28,7 @@ export class ZonesPage {
   }
 
   ionViewDidLoad() {
-    
+
     this.plazasProvider.all().subscribe( plazas => {
 
       plazas.forEach( plaza => {
