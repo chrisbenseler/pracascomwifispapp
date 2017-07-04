@@ -19,7 +19,6 @@ import { PlazasperzoneComponent } from '../components/plazasperzone/plazasperzon
 
 import { PlazasProvider } from '../providers/plazas/plazas';
 
-
 @NgModule({
   declarations: [
     MyApp,
