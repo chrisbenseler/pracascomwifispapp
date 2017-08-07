@@ -1,0 +1,15 @@
+{
+  "name": "pracascomwifisp-csv-parser",
+  "version": "0.0.1",
+  "description": "Parser CSV praças com wifi SP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/maps": "^0.3.1",
+    "fast-csv": "^2.4.0"
+  }
+}
