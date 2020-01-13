@@ -41,7 +41,7 @@ import { PlazasProvider } from '../providers/plazas/plazas';
         { component: AboutPage, name: 'AboutPage', segment: 'About' }
       ]
     }),
-    AgmCoreModule.forRoot({ apiKey: 'AIzaSyA0F0GGjJclYIdrfeVxBTZeTwIXtnKmpF8' }),
+    AgmCoreModule.forRoot({ apiKey: 'YOUR_API_KEY_HERE' }),
   ],
   bootstrap: [IonicApp],
   entryComponents: [
